@@ -1,1 +1,5 @@
-bin/*
+# Ignore all bin directories everywhere
+bin/
+**/bin/
+-p/
+**/-p/
